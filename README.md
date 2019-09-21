@@ -80,6 +80,11 @@ main.c
 stack.c
 stack.h
 
+# Build FreeSWITCH (FS) from source
+
+# Write and use FS module
+ 
+
 References:
 
 * http://courses.cms.caltech.edu/cs11/material/c/mike/misc/compiling_c.html
