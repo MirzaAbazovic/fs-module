@@ -216,7 +216,6 @@ clean:
 For more info see https://www.gnu.org/software/make/manual/make.pdf
 
 
-
 # Libraries
 
 ## Static library
@@ -228,7 +227,22 @@ For more info see https://www.gnu.org/software/make/manual/make.pdf
 
 # FreeSWITCH (FS)
 
+FreeSWITCH™ is an open source carrier-grade telephony platform implemented as a back-to-back user agent. Because of this design it can perform a great number of different tasks from a PBX to transit switch, TTS (text-to-speech) conversion, audio and video conferencing host, and even a VoIP telephone and more.
+
+FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
+
+FreeSWITCH can handle voice, video and text communications from an IP Network (VoIP) and the PSTN (i.e., regular landlines). FreeSWITCH supports all popular VoIP protocols as well as interfacing with PRIs. For a full listing of supported protocols, see the Endpoints page.
+
+Some common capacities, that FreeSWITCH is used for, include:
+- PBX (Office phone system) 
+- Class 5 Softswitch (Telephone carrier)
+- Application server such as Voicemail, conferencing, IVR
+- Softphone
+
+
 ## Build FS from source
+
+https://github.com/MirzaAbazovic/fs-from-code
 
 ## Write and use FS module 
 
