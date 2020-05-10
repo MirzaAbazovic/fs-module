@@ -97,10 +97,10 @@ chmod +x update-fs.sh
 
 Scripts:
 
-- [prepare-fs.sh](src/install/ubuntu-scripts/prepare-fs.sh)
-- [install-fs.sh](src/install/ubuntu-scripts/install-fs.sh)
-- [post-install-fs.sh](src/install/ubuntu-scripts/post-install-fs.sh)
-- [update-fs.sh](src/install/ubuntu-scripts/update-fs.sh)
+- [prepare-fs.sh](../../src/install/ubuntu-scripts/prepare-fs.sh)
+- [install-fs.sh](../../src/install/ubuntu-scripts/install-fs.sh)
+- [post-install-fs.sh](../../src/install/ubuntu-scripts/post-install-fs.sh)
+- [update-fs.sh](../../src/install/ubuntu-scripts/update-fs.sh)
 
 ## RUN it
 
@@ -111,7 +111,7 @@ Manually:
 As service:
 
 You can also install it as a service by cretaing file /etc/systemd/system/freeswitch.service
-with content [freeswitch.service](src/conf/freeswitch.service)
+with content [freeswitch.service](../../src/conf/freeswitch.service)
 
 Relaod systemd config
 
