@@ -8,7 +8,7 @@
 
 ## Installation
 
-- [Install from master](doc/inst/from_master.md)
+- [Install from master]](doc/inst/from_master.md)
 
 ## Usage
 
