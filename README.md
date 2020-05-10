@@ -1,4 +1,4 @@
-# Content
+# Tips & Triks about FreeSWITCH (FS)
 
 ## Preparation
 
@@ -8,11 +8,13 @@
 
 ## Installation
 
-- [Install from master]](doc/inst/from_master.md)
+- [Install from source code debian](doc/inst/fs_from_source_ubuntu.md)
+- [Install from source code centos](doc/inst/fs_from_source_centos.md)
 
 ## Usage
 
-- [vanilla configuration](doc/usage/vanilla_config.md)
+- [FreeSWITCH vanilla configuration](doc/usage/vanilla_config.md)
+- [tools: sngrep](doc/usage/sngrep.md)
 
 ## Development
 
