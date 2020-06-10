@@ -69,6 +69,13 @@ make cd-sounds-install cd-moh-install
 cd /usr/src/freeswitch
 make current
 ```
+## Build module
+
+If You make changes on some module rebuild him using make mod_XXX-install
+
+```bash
+make mod_sofia-install
+```
 
 # Post install
 
